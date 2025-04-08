@@ -2,7 +2,7 @@
 
 data sourche : https://www.kaggle.com/datasets/wisnuanggara/daftar-harga-rumah
 
-# Process:
+# Workflow:
 
 1. Data Cleaning (ETL to mysql and xlsx)
 2. Descriptive Analysis (Describe Data, Data Distribute, Filtering)
